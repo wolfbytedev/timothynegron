@@ -1,4 +1,4 @@
-### I love coding, learning, and helping people
+### Coding is cool but difficult
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
