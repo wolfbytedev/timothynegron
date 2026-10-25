@@ -1,4 +1,4 @@
-### Coding is cool but difficult
+<! -- ###
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
@@ -21,3 +21,4 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="100px" title="bootstrap"></span>
   <span><img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode"></span>
 </p>
+-->
